@@ -131,6 +131,7 @@ If you are not familiar with this procedure, see [How to convert a binary certif
 	|---|---|
     |Firstname|User.givenname|
 	|Lastname|User.surname|
+	|Email|User.mail|
 
     1.  For each data row in the table above, click **add user attribute**.
     2.  In the **Attribute Name** textbox, type the attribute name shown for that row.
